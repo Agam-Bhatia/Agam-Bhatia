@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning C/ OOPs/ AutoCAD
 - 📫 How to reach me agambhatia21@gmail.com
 
-<a href="https://github.com/Agam-Bhatia%22%3E
+<a href="https://github.com/Agam-Bhatia">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Agam-Bhatia&theme=light&hide_langs_below=1" />
 </a>
 <!---
